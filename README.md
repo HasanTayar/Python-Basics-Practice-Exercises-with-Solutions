@@ -6,7 +6,7 @@ This repository contains practice exercises for beginners to learn Python. The e
 
 To get started, simply clone this repository to your local machine:
 
-git clone https://github.com/your-username/python-basics-practice-exercises.git
+git clone https://github.com/HasanTayar/python-basics-practice-exercises.git
 
 
 Each practice folder contains a `.py` file with the problem statement and a `Q(Number Of Question).py` file containing the solution. To test your solutions, simply run the solution file in your terminal:
